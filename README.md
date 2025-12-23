@@ -24,13 +24,13 @@ Elle est née du besoin de convertir rapidement et localement une grande quantit
 * **Traitement par lots** de fichiers, grâce au parallélisme `asyncio`.
 * **Extraction audio depuis des vidéos (.mp4)**.
 * **Aucune installation requise** – exécutable dès le téléchargement fini.
-* **Traitement 100 % local** – pas de transferts inutiles sur internet, tout reste sur votre ordi !
+* **Traitement 100 % local** – pas de transferts inutiles via internet, tout reste sur votre ordi !
 
 ## Atouts techniques
 
 * **Progression en temps réel** pour chacun des fichiers en traitement.
 * **Une interface graphique paufinée** grâce à Qt et [Frameless-Window](https://github.com/yjg30737/pyqt-frameless-window).
-* **Basé sur l'outil robuste FFmpeg**, pas de mauvaises surprises sur la qualité de sortie, ou d'éventuels bugs.
+* **Basé sur l'outil robuste FFmpeg**, pas de mauvaises surprises sur la qualité de sortie, ou sur d'éventuels bugs.
 
 ## Installation
 
@@ -43,22 +43,20 @@ Elle est née du besoin de convertir rapidement et localement une grande quantit
 
 1. Ajoutez des fichiers via une boîte de dialogue ou en mode `drag & drop`.
 2. Choisissez le format de sortie pour les fichiers choisis (MP3, WAV, etc.).
-3. Lancez le traitement, et taddaaaam !!! Vos fichiers sont convertis.
+3. Lancez le traitement, et taddaaaam !!! Vos fichiers sont tous convertis au format désiré.
 
-*Note: vous pouvez ajouter des dossiers complets en les glissant dans la fenêtre. L'application fera le tri des formats compatibles pour vous !*
+*NOTE : vous pouvez ajouter des dossiers complets en les glissant dans la fenêtre. L'application fera le tri des formats compatibles pour vous !*
 
 ## Formats pris en charge
 
 Plus de 40 formats audio sont supportés : `.mp3`, `.aac`, `.ogg`, `.flac`, `.wav`, `.m4a`, `.alac`, `.wma`, etc.
 
-## Auteur
 
-Créé par **Jean Talec**
-
-## License 
+## Licence du logiciel
 
 ExpressMpeg est sous licence [GNU GPLv3](./LICENSE). 
 
-*Copyright © 2025 par Jean Moïse Talec.*
+*Copyright &copy; 2023-2026 Jean Moïse TALEC All Rights Reserved*
+
 
  
