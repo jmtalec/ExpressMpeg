@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="root">
+    <file>src/delete.png</file>
+    <file>src/dossier-vide.png</file>
+    <file>src/progress.gif</file>
+    <file>src/play.png</file>
+    <file>src/dossier.png</file>
+    <file>src/help.png</file>
+    <file>src/settings.png</file>
+  </qresource>
+  <qresource prefix="font">
+    <file>src/segoeui.ttf</file>
+    <file>src/segoeuib.ttf</file>
+    <file>src/segoeuii.ttf</file>
+    <file>src/segoeuil.ttf</file>
+    <file>src/segoeuisl.ttf</file>
+    <file>src/segoeuiz.ttf</file>
+    <file>src/seguibl.ttf</file>
+    <file>src/seguibli.ttf</file>
+    <file>src/seguili.ttf</file>
+    <file>src/seguisb.ttf</file>
+    <file>src/seguisbi.ttf</file>
+    <file>src/seguisli.ttf</file>
+    <file>src/expressmpeg_font.ttf</file>
+  </qresource>
+  <qresource prefix="favicon">
+    <file>favicon/favicon.ico</file>
+    <file>favicon/favicon16.png</file>
+    <file>favicon/favicon32.png</file>
+    <file>favicon/favicon64.png</file>
+    <file>favicon/favicon128.png</file>
+    <file>favicon/favicon256.png</file>
+    <file>favicon/favicon512.png</file>
+  </qresource>
+</RCC>
