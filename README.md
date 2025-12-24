@@ -4,8 +4,6 @@
    <br> 
   <img src="https://img.shields.io/badge/Platform-Windows%207-green?logo=windows%20xp&logoColor=9ac342" alt="Platform Windows 11"/> 
   <img src="https://img.shields.io/badge/Platform-Windows%2011-blue?logo=windows%2011&logoColor=40c7ff" alt="Platform Windows 7"/>   
-  <br>
-  <a href='https://expressmpeg.en.uptodown.com/windows' title='UpToDown' ><img src='https://stc.utdstc.com/img/mediakit/imagotipo2.png' alt='Download ExpressMpeg' width=140></a>
 </p> 
 
 
