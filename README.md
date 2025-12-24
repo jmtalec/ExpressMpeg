@@ -32,6 +32,9 @@ Elle est née du besoin de convertir rapidement et localement une grande quantit
 
 ## Installation
 
+Allez sur Uptodown vis le boutton ci-dessous pour télécharger la dernière version du logiciel.
+Cliquez sur l'installateur une fois le téléchargement fini, puis suivez les instructions, et le logiciel sera prêt à être utilisé !
+
 <a href='https://expressmpeg.fr.uptodown.com/windows' title='Télécharger ExpressMpeg' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-gio-small.png' alt='Télécharger ExpressMpeg'>
                 </a>
