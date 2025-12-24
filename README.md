@@ -34,10 +34,9 @@ Elle est née du besoin de convertir rapidement et localement une grande quantit
 
 ## Installation
 
-* **Compatibilité** : Windows 10+
-* Lancez `ExpressMpeg.exe` dans le dossier `application`
-* **Aucune dépendance externe** nécessaire
-
+<a href='https://expressmpeg.fr.uptodown.com/windows' title='Télécharger ExpressMpeg' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-gio-small.png' alt='Télécharger ExpressMpeg'>
+                </a>
 
 ## Exemples d’usage
 
