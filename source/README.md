@@ -1,0 +1,1 @@
+Le code source ne fonctionne pas en l'état, il faut télécharger l'outil `ffmpeg.exe` via <https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z>.
